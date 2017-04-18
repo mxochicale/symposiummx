@@ -37,6 +37,55 @@ https://www.symposiummx.com/preregistration/
 
 
 
+Pre-registration form
+Email address:  perez.xochicale@gmail.com
+First Name: Miguel
+Last Name: P Xochicale
+University / Institution: University of Birmingham
+Level: Doctorate Degree
+Area: Technology
+Select: Oral Presentation
+
+Title of Presentation: Towards the Analysis of Human Movement with Humanoid Robots
+
+Abstract:  
+The World Health Organization (WHO) pointed out that people worldwide are living longer.
+In 2015, 125 million people worldwide were aged 80 years or older
+and by 2050 there will be almost 434 million people in this age group worldwide,
+ of which 80 \% will live in low- and middle-income countries.
+Similarly, WHO highlighted that the improvement of methodologies for measurement,
+monitoring and understanding the elderly are a priority area of action.
+With this in mind, we believe that we can address those areas of opportunity
+where humanoids robots can be used for elderly care.
+For instance, (a) RI-MAN and RIBA-II  humanoid robots
+have facial recognition and a scent discerner with the ability to
+carry patients up to 80 kg to different surrounding locations;
+(b) Paro bot helps people with dementia to decrease stress or feelings of loneliness; and
+(c) Palro humanoid robot can be used in entertainment activities such as dancing or gaming.
+Recently, humanoid robots like Pepper and NAO have been used to understand
+human emotions, or to perform therapies for rehabilitation with children or
+elderly people.
+In this talk, I will therefore present the  methodologies for measurement,
+monitoring and understanding the Human-Robot Interaction with the use of wearable
+inertial sensors.
+I will also present some results of a group of persons interacting with NAO
+to show the remarkable capabilities of measuring peer-to-peer influence when
+receiving instructions from the NAO.
+
+
+Special requirements
+Special requirements/other information NO
+Would you like to attend to the Symposium dinner at Durham Castle? *
+To be held on 12 July 2017. A small fee may apply (To be confirmed at the final registration). Limited availability on a first come, first served basis.
+X Yes
+No
+Do you require college B&B accommodation (Josephine Butler College)? *
+Additional cost applies. Limited availability on a first come, first served basis.
+Yes
+X No, I'll book my own accommodation
+
+
+
 # TODO List
-* Submit abstract on the 17th of April 2017.
 * Create template for presentation.
+* DONE: Submitted abstract on the 19th of April 2017.
