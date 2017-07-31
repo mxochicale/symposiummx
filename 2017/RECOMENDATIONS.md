@@ -1,7 +1,3 @@
-Hiya! These are some recommendations for the next symposium!
-
----
-
 These are some personal comments that might be of help for the organisers of the
 next symposium.
 
@@ -31,8 +27,12 @@ For instance, regarding the open and reproducible science, we (Mexicans) can
 adapt the model of ReScience peer-reviewed journal [http://rescience.github.io/]
 which promotes open-source implementations in order to ensure that the original research can be
 replicated from its description.
-I believe that by adapting the ReScience peer-reviewed journal model to the symposium,
+I believe that by adapting the ReScience peer-reviewed journal model to the symposium
+[(Rougier et al 2017)](https://arxiv.org/abs/1707.04393),
 we can increase the scientific quality and promote a more cooperative science.
+
+
+
 
 
 P.S Informaly, we were talking about the advantange of an Open and Reproducible
