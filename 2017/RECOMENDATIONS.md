@@ -6,8 +6,8 @@ next symposium.
 
 The organisers as well as the students should be a bit more rigorous about
 the quality of both the abstracts and the presentations.
-Personally, I was dissapointed that the panel of Computer Science and Robotics
-were cancelled to which I was re-allocated to other room becuase of
+Personally, I was dissapointed about the cancellation of the panel of Computer
+Science and Robotics for which I was re-allocated to other room becuase of
 the cancellation of some speakers. With this in mind, I am starting to think
 that you can try to do some kind of peer-review submission where PhD students in
 their third or four year can provide acute critics to improve the submitted work.
@@ -46,7 +46,7 @@ with his comments about the advange of using github.
 
 # Program
 
-When one is one a conference is very important to keep track of the speakers
+When one is in a a conference is very important to keep track of the speakers
 as well and the talks, also to have notification(s) of possible changes in the
 program like titles of the talks, speaker names or places and times.
 So the advice here is to take advantage of the mobile apps that can be used
