@@ -7,8 +7,8 @@ next symposium.
 The organisers as well as the students should be a bit more rigorous about
 the quality of both the abstracts and the presentations.
 Personally, I was dissapointed about the cancellation of the panel of Computer
-Science and Robotics for which I was re-allocated to other room becuase of
-the cancellation of some speakers. With this in mind, I am starting to think
+Science and Robotics for which I was re-allocated to other room.
+With this in mind, I am starting to think
 that you can try to do some kind of peer-review submission where PhD students in
 their third or four year can provide acute critics to improve the submitted work.
 (I will happyly volunteer for future symposiums in my lines of research)
@@ -19,18 +19,19 @@ their third or four year can provide acute critics to improve the submitted work
 I believe in the SCIENCE where you can replicate experiments, where data is
 available to further your experimentation, where you can cooperate with others,
 where the sources are available to give freedom to one's curiosity.
-Personally, I have been learning a
-lot from open-source projects in [http://github.com/] and open science software
-that runs in GNU-Linux. The general idea is that others can be get some benefits
-of studing these open source projects that might results in the creation of
-deeper questions and therefore make substancial advances in science.
+Personally, I have been learning a lot from open-source projects in [http://github.com/]
+and open science software that runs in GNU-LINUX. The general idea is that others
+can be get some benefits of studing these open source projects
+for which the new minds can create deeper questions and therefore make
+substancial advances in science.
 For instance, regarding the open and reproducible science, we (Mexicans) can
 adapt the model of ReScience peer-reviewed journal [http://rescience.github.io/]
-which promotes open-source implementations in order to ensure that the original research can be
-replicated from its description.
-I believe that by adapting the ReScience peer-reviewed journal model to the symposium
-[(Rougier et al 2017)](https://arxiv.org/abs/1707.04393),
-we can increase the scientific quality and promote a more cooperative science.
+which promotes open-source implementations in order to ensure that the original
+research can be replicated from its description.
+I believe that by adapting the ReScience peer-reviewed journal model
+[(Rougier et al 2017)](https://arxiv.org/abs/1707.04393) to the symposium,
+we can increase the scientific quality and promote a more cooperative science
+in the coming symposium.
 
 
 
