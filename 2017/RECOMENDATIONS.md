@@ -16,8 +16,9 @@ their third or four year can provide acute critics to improve the submitted work
 
 # Towards Open and Reproducible Science
 
-I believe in the SCIENCE that you can replicate experiments, where data is
-available to further experimentation, where you can cooperate with others.
+I believe in the SCIENCE where you can replicate experiments, where data is
+available to further your experimentation, where you can cooperate with others,
+where the sources are available to give freedom to one's curiosity.
 Personally, I have been learning a
 lot from open-source projects in [http://github.com/] and open science software
 that runs in GNU-Linux. The general idea is that others can be get some benefits
@@ -46,7 +47,7 @@ with his comments about the advange of using github.
 
 # Program
 
-When one is in a a conference is very important to keep track of the speakers
+When one is in a conference is very important to keep track of the speakers
 as well and the talks, also to have notification(s) of possible changes in the
 program like titles of the talks, speaker names or places and times.
 So the advice here is to take advantage of the mobile apps that can be used
